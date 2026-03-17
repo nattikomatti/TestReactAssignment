@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="testreactassignment.client/testreactassignment.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="TestReactAssignment.Server/TestReactAssignment.Server.csproj" />
+</Solution>
